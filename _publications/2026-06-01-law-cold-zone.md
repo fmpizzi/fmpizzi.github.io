@@ -1,5 +1,5 @@
 ---
-title: "Powering votes? The effects of energy subsidies on electroal outcomes"
+title: "Powering votes? The effects of energy subsidies on electoral outcomes"
 collection: publications
 published: true
 category: work_in_progress
