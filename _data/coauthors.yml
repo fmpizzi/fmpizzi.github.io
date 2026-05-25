@@ -1,0 +1,33 @@
+# Coauthor directory.
+# Add an entry per person. The `url` is optional — leave empty (or omit) for no link.
+# Names used here must match exactly what is listed under `coauthors:` in each _publications/*.md file.
+
+"Octavio Bertín":
+  url: "https://scholar.google.com/citations?user=3K3mq9sAAAAJ&hl=en"
+
+"Walter Cont":
+  url: "https://scholar.google.com/citations?user=MNZWMscAAAAJ&hl=es"
+
+"Diego Fernández Felices":
+  url: "https://independent.academia.edu/DiegoFern%C3%A1ndezFelices"
+
+"Thomas García":
+  url: ""
+
+"Fernando Navajas":
+  url: "https://scholar.google.com/citations?user=vUsxs5MAAAAJ&hl=es"
+
+"Mariela Pistorio":
+  url: "https://scholar.google.com/citations?user=TneYDxUAAAAJ&hl=es"
+
+"Alberto Porto":
+  url: "https://scholar.google.com/citations?user=PcCp8BQAAAAJ&hl=en"
+
+"Jorge Puig":
+  url: "https://scholar.google.com/citations?user=nbLWLD8AAAAJ&hl=es"
+
+"Julián Puig":
+  url: "https://scholar.google.com/citations?user=b55tI6cAAAAJ&hl=es"
+
+"Guillermo Falcone": 
+  url: "https://www.guillermofalcone.com/"  

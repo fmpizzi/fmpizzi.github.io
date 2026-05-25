@@ -23,9 +23,9 @@ repository               : "fmpizzi/fmpizzi.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Francisco M. Pizzi"
+  name             : "Francisco Pizzi"
   pronouns         : # example: "he/him"
-  bio              : "PhD candidate in Economics, UC Davis. Energy & Environmental Economics, Public Finance."
+  bio              :
   location         : "Davis, CA"
   employer         : "University of California, Davis"
   uri              : # URL
@@ -83,12 +83,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  working_papers:
+    title: 'Working Papers'
+  work_in_progress:
+    title: 'Work in Progress'
   manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+    title: 'Journal Publications'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -224,7 +224,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true

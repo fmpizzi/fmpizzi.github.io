@@ -41,3 +41,27 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Site-wide link styling: no underline by default, underline on hover.
+   Scoped to #main so nav/footer/buttons keep their own styling. */
+#main a:not(.btn) {
+  text-decoration: none;
+}
+#main a:not(.btn):hover {
+  text-decoration: underline;
+}
+
+/* Smaller paper titles on archive lists (Research, Books) */
+.archive__item-title {
+  font-size: 1.1em;
+}
+
+/* Alternating background colors for each publication category section */
+.cat-section {
+  padding: 0.5em 1.5em 1em 1.5em;
+  margin-bottom: 0.5em;
+  border-radius: 4px;
+}
+.cat-working_papers   { background: #ffffff; }
+.cat-work_in_progress { background: #f4f4f4; }
+.cat-manuscripts      { background: #ffffff; }
