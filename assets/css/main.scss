@@ -56,12 +56,14 @@
   font-size: 1.1em;
 }
 
-/* Alternating background colors for each publication category section */
+/* Visual separation for each publication category section.
+   Use a semi-transparent tint (not a hardcoded white/gray) so it works
+   in BOTH light and dark theme — a solid white box would hide light text in dark mode. */
 .cat-section {
   padding: 0.5em 1.5em 1em 1.5em;
   margin-bottom: 0.5em;
   border-radius: 4px;
 }
-.cat-working_papers   { background: #ffffff; }
-.cat-work_in_progress { background: #f4f4f4; }
-.cat-manuscripts      { background: #ffffff; }
+.cat-working_papers   { background: transparent; }
+.cat-work_in_progress { background: rgba(128, 128, 128, 0.10); }
+.cat-manuscripts      { background: transparent; }
