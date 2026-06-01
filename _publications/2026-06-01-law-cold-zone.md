@@ -4,7 +4,7 @@ collection: publications
 published: true
 category: work_in_progress
 permalink: 
-excerpt: 'This paper analyzes ....'
+excerpt: ''
 date: 2026-01-01
 venue: ''
 coauthors:
