@@ -8,6 +8,6 @@ excerpt: ''
 date: 2026-06-01
 venue: ''
 coauthors:
-paperurl: '/files/master_document_CBS_gasoline.pdf'
+paperurl: '/files/extended_abstract_may_2026zonafria.pdf'
 citation: ''
 ---
