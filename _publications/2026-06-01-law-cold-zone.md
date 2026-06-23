@@ -4,7 +4,7 @@ collection: publications
 published: true
 category: work_in_progress
 permalink: /publication/2026-law-cold-zone
-excerpt: 'Are politicians rewarded for implementing energy subsidies?'
+excerpt: 'Are politicians rewarded for implementing energy subsidies? '
 date: 2026-06-01
 venue: ''
 coauthors:
